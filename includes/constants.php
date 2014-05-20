@@ -6,15 +6,15 @@
  * Time: 10:43 PM
  */
     // your database's name
-    define("DATABASE", "website");
+    define("DATABASE", "db name");
 
     // your database's password
-    define("PASSWORD", "hunter99");
+    define("PASSWORD", "db password");
 
     // your database's server
     define("SERVER", "localhost");
 
     // your database's username
-    define("USERNAME", "root");
+    define("USERNAME", "db username");
 
 ?>
